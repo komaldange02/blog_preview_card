@@ -2,37 +2,98 @@
 
 This is my solution to the Blog Preview Card challenge on Frontend Mentor. I built this project using HTML and CSS.
 
-## 🚀 Live Site
+---
 
-Live URL: https://your-netlify-link.netlify.app
+## 📌 Overview
 
-## 📸 Screenshot
+This project is a simple blog preview card that displays:
 
-![Project Screenshot](./assets/images/screenshot.png)
+* Article illustration image
+* Category button
+* Published date
+* Blog title
+* Short description
+* Author profile
 
-## 🛠️ Built With
+The design is inspired by a Frontend Mentor challenge.
 
-- HTML5
-- CSS3
-- Flexbox
-- Responsive Design
+---
+
+## ✨ Features
+
+* Responsive card layout
+* Clean UI design
+* Flexbox alignment
+* Rounded corners
+* Box shadow effects
+* Interactive hover effects
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* Flexbox
+* Responsive Design
+
+---
+
+## 📁 Project Structure
+
+blog-preview-card/
+│
+├── index.html
+├── images/  
+└── README.md
+
+---
+
+## 📸 Screenshots
+
+### Desktop Design
+(images/desktop-image.png)
+
+### Mobile Design
+(images/mobile-image.png)
+
+
+assets/images/active-state.jpg
+
+---
+
+## 🚀 Live Demo
+
+Example:
+https://your-site-name.netlify.app
+
+---
+
+## 🔗 GitHub Repository
+
+Example:
+https://github.com/komaldange02/blog-preview-card
+
+---
 
 ## 📚 What I Learned
 
 While building this project, I practiced:
 
-- Flexbox alignment
-- Card layout design
-- Image handling in HTML
-- Responsive styling
-- Deploying projects using Netlify
+* HTML structure
+* CSS styling
+* Flexbox alignment
+* Card layouts
+* Image handling
+* Responsive design
 
-## 🔗 Useful Links
-
-- Frontend Mentor: https://www.frontendmentor.io
-- GitHub Repository: https://github.com/your-username/your-repo-name
+---
 
 ## 👩‍💻 Author
 
-- Frontend Mentor - Your Frontend Mentor Username
-- GitHub - Your GitHub Username
+Komal Dange
+
+* GitHub: https://github.com/komaldange02
+* Frontend Mentor: https://www.frontendmentor.io
+
+---
